@@ -124,7 +124,7 @@ with open("instapaper_magazine_temp.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 
 # Convert to PDF
-pdfkit.from_file("instapaper_magazine_temp.html", "Instapaper_Magazine_Inline_Images.pdf")
+pdfkit.from_file("instapaper_magazine_temp.html", "Instapaper_Magazine.pdf")
 
 # Cleanup
 os.remove("instapaper_magazine_temp.html")
