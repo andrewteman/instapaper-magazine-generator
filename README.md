@@ -1,7 +1,7 @@
 
 # 📰 Instapaper to Magazine Generator
 
-Turn your saved [Instapaper] (https://www.instapaper.com) articles into a beautifully formatted, printable PDF magazine — complete with inline images, cleaned typography, and 16pt reading-friendly type. Perfect for zine-style printing, weekend reading, or offline archiving.
+Turn your saved [Instapaper](https://www.instapaper.com) articles into a beautifully formatted, printable PDF magazine — complete with inline images, cleaned typography, and 16pt reading-friendly type. Perfect for zine-style printing, weekend reading, or offline archiving.
 
 ---
 
